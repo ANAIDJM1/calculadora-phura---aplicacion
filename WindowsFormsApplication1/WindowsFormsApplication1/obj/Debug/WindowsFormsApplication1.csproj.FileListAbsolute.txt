@@ -1,0 +1,42 @@
+c:\users\lab\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LAB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LAB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LAB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\LAB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LAB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LAB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\LAB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\LAB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Alumno\Documents\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Alumno\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Alumno\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Alumno\Documents\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Alumno\Documents\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Alumno\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Alumno\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Alumno\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\aphura inicial\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\aphura inicial\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\aphura inicial\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\aphura inicial\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\aphura inicial\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\aphura inicial\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\aphura inicial\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\aphura inicial\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\calculadora phura\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\calculadora phura\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\calculadora phura\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CalcuProductos.exe.config
+G:\calculadora phura\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CalcuProductos.exe.manifest
+G:\calculadora phura\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CalcuProductos.application
+G:\calculadora phura\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CalcuProductos.exe
+G:\calculadora phura\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CalcuProductos.pdb
+G:\calculadora phura\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CalcuProductos.Properties.Resources.resources
+G:\calculadora phura\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CalcuProductos.exe.manifest
+G:\calculadora phura\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CalcuProductos.application
+G:\calculadora phura\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CalcuProductos.exe
+G:\calculadora phura\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CalcuProductos.pdb
+G:\calculadora phura\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\calculadora phura - aplicacion\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CalcuProductos.exe.config
+G:\calculadora phura - aplicacion\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CalcuProductos.exe
+G:\calculadora phura - aplicacion\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CalcuProductos.pdb
